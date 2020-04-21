@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "fairy_tail_man_fire_hand_look_angry_102300_2560x1600.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
